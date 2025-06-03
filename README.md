@@ -1,3 +1,8 @@
+<!-- Animação SVG no topo -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Landerson+Coelho+Arag%C3%A3o!;Dev+em+evolu%C3%A7%C3%A3o+constante...;Criador+de+jogos+e+experi%C3%AAncias+interativas." alt="Typing SVG" />
+</p>
+
 <h1 align="center">👋 Olá, mundo! Eu sou o <strong>Landerson Coelho Aragão</strong></h1>
 
 <p align="center">
@@ -5,7 +10,12 @@
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
+</p>
+
+<p align="center">
+  <!-- Badge de visitas -->
+  <img src="https://komarev.com/ghpvc/?username=Lander-ZZ&label=Visualiza%C3%A7%C3%B5es+no+perfil&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -53,10 +63,131 @@ Atualmente me aprofundo nas áreas de:
 
 ### 🔍 Algumas curiosidades sobre mim
 
-- 🎤Tenho um canal no [Youtube](https://www.youtube.com/@Lander_ZZ) de jogos 
+- 🎤 Tenho um canal no [Youtube](https://www.youtube.com/@Lander_ZZ) de jogos 
 - 🥋 Luto **Jiu-Jitsu** e sonho competir profissionalmente
 - 🧠 Sou fascinado por narrativas profundas, filosofia e **games como arte**
 - 🎓 Adoro aprender e ensinar — acredito que o **conhecimento só vale se for compartilhado**
+
+---
+
+### 🧙 Status
+<div class="xp-container">
+  <div class="xp-label">Nível 5 - Dev Aprendiz</div>
+  <div class="xp-bar">
+    <div class="xp-fill" style="width: 65%;"></div>
+  </div>
+  <div class="xp-value">650 / 1000 XP</div>
+</div>
+
+<style>
+.xp-container {
+  width: 90%;
+  max-width: 400px;
+  margin: 20px auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+.xp-label {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.xp-bar {
+  width: 100%;
+  height: 20px;
+  background-color: #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 0 5px #0003;
+}
+
+.xp-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #00c3ff, #007adf);
+  animation: fillXP 2s ease-out;
+}
+
+.xp-value {
+  margin-top: 5px;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+@keyframes fillXP {
+  from {
+    width: 0%;
+  }
+  to {
+    width: 65%;
+  }
+}
+</style>
+
+
+<div class="achievements">
+  <h2>🎖️ Conquistas</h2>
+  <ul>
+    <li>🧠 <strong>Aprendiz Curioso</strong> – Completou 100 horas de estudo prático</li>
+    <li>💻 <strong>Primeiro Deploy</strong> – Publicou seu primeiro site</li>
+    <li>🎮 <strong>Mini Dev Game Jam</strong> – Finalizou um jogo 100% funcional</li>
+    <li>🔥 <strong>Commit Fervoroso</strong> – 30 dias consecutivos de commits</li>
+  </ul>
+
+  <h2>🧩 Insígnias</h2>
+  <div class="badges">
+    <span class="badge">HTML5</span>
+    <span class="badge">JavaScript</span>
+    <span class="badge">GameDev</span>
+    <span class="badge">Leader</span>
+  </div>
+</div>
+
+<style>
+.achievements {
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+  font-family: 'Segoe UI', sans-serif;
+  color: #333;
+}
+
+.achievements ul {
+  padding-left: 20px;
+}
+
+.badges {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.badge {
+  background-color: #444;
+  color: #fff;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  transition: transform 0.2s ease;
+}
+
+.badge:hover {
+  transform: scale(1.1);
+  background-color: #007adf;
+}
+</style>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lander-ZZ&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lander-ZZ&layout=compact&theme=radical&hide_border=true" />
+
+</div>
 
 ---
 
@@ -70,9 +201,10 @@ Atualmente me aprofundo nas áreas de:
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Transformando+ideias+em+realidade...;Tecnologia+com+propósito.;Jogos+que+conectam.;Desenvolvedor+em+evolução.&center=true&width=440&height=45" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Transformando+ideias+em+realidade...;Tecnologia+com+prop%C3%B3sito.;Jogos+que+conectam.;Desenvolvedor+em+evolu%C3%A7%C3%A3o.&center=true&width=440&height=45" />
 </p>
 
 <p align="center">
 Feito com 💻, café ☕ e muita vontade de deixar o mundo mais divertido e inteligente.
 </p>
+
