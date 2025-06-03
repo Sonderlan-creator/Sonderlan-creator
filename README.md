@@ -1,54 +1,80 @@
-<h1 align="center">Olá! Eu sou o Landerson Coelho Aragão 👋</h1>
+<h1 align="center">👋 Olá, mundo! Eu sou o <strong>Landerson Coelho Aragão</strong></h1>
 
 <p align="center">
-Desenvolvedor em formação | Criador de jogos | Apaixonado por tecnologia, narrativas e experiências interativas
+🎮 Desenvolvedor em formação | 💡 Criador de experiências interativas | 🔭 Explorador de novas tecnologias
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
 </p>
 
 ---
 
 ### 💡 Sobre mim
 
-Sou estudante de **Gestão da Tecnologia da Informação** na FADBA, apaixonado por desenvolvimento de jogos, sites e aplicativos que tragam experiências memoráveis para quem usa. Estou sempre buscando novos desafios, seja em programação, design, inteligência artificial ou narrativas interativas.
+Sou estudante de **Gestão da Tecnologia da Informação** na FADBA e um apaixonado por criar experiências tecnológicas que **conectam pessoas**, **contam histórias** e **resolvem problemas**.  
 
-Estou estudando:
+Atualmente me aprofundo nas áreas de:
 
-- 🕹 **Desenvolvimento de Jogos** (Game Maker Studio)
-- 🌐 **Desenvolvimento Web** (HTML, CSS, JavaScript)
-- 📱 **Criação de Aplicativos Mobile**
-- 📊 **Documentação e Análise de Sistemas**
-- 🤖 **Robótica e Inteligência Artificial (em aprendizado)**
+- 🕹 **Desenvolvimento de Jogos** com foco em narrativa e mecânica (GameMaker Studio)
+- 🌐 **Desenvolvimento Web** com foco em design acessível e responsivo
+- 📱 **Criação de Aplicativos Mobile** com ideias criativas para o dia a dia
+- 🤖 **Robótica e Inteligência Artificial**, integrando o físico com o digital
+- 📑 **Análise de Sistemas e UX**, transformando ideias em soluções reais
 
-Atualmente lidero um projeto de site institucional para a LA DOCERIA, unindo estética profissional com uma proposta acessível e acolhedora.
-
----
-
-### 🚀 Tecnologias que estou aprendendo / utilizando
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=flat-square&logo=gamemaker&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
+💼 Atualmente sou líder de projeto no desenvolvimento do site institucional da **LA DOCERIA**, aplicando design estratégico e usabilidade.
 
 ---
 
-### 🎯 Objetivos em 2025
+### 🚀 Tecnologias que estou explorando
 
-- Criar um jogo original baseado no folclore brasileiro (Tower Defense)
-- Lançar meu primeiro aplicativo mobile
-- Participar de um projeto físico de robótica com IA embarcada
-- Aprimorar minha fluência em back-end e bancos de dados
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+
+</div>
+
+---
+
+### 🎯 Metas para 2025
+
+- 🚀 Criar um **Tower Defense** original com personagens do **folclore brasileiro**
+- 📲 Lançar meu **primeiro aplicativo mobile** no Google Play
+- 🤖 Integrar um robô físico com **IA embarcada**
+- 💻 Aprofundar em **back-end** (Node.js, Express, APIs REST)
+- 📚 Publicar um livro autoral na **Google Play Livros**
+- 🧠 Criar um **RPG de mesa autoral** com sistema e ambientação próprios
+
+---
+
+### 🔍 Algumas curiosidades sobre mim
+
+- 🎤Tenho um canal no <link href = https://www.youtube.com/@Lander_ZZ>YOUTUBE</link> de jogos 
+- 🥋 Luto **Jiu-Jitsu** e sonho competir profissionalmente
+- 🧠 Sou fascinado por narrativas profundas, filosofia e **games como arte**
+- 🎓 Adoro aprender e ensinar — acredito que o **conhecimento só vale se for compartilhado**
 
 ---
 
 ### 🌐 Vamos nos conectar?
 
-- 📫 **Email:** landersoncoelho72@gmail.com 
+- 📧 **Email:** [landersoncoelho72@gmail.com](mailto:landersoncoelho72@gmail.com)  
+- 🌎 **Portfólio (em breve)**  
+- 🎮 **Itch.io (em construção)**  
+- 🤝 *Aberto a colaborações, parcerias, ideias inovadoras e desafios malucos*
 
 ---
 
 <p align="center">
-Feito com 💻, café ☕ e muita vontade de criar algo incrível.
+<img src="https://readme-typing-svg.demolab.com/?lines=Transformando+ideias+em+realidade...;Tecnologia+com+propósito.;Jogos+que+conectam.;Desenvolvedor+em+evolução.&center=true&width=440&height=45" />
+</p>
+
+<p align="center">
+Feito com 💻, café ☕ e muita vontade de deixar o mundo mais divertido e inteligente.
 </p>
