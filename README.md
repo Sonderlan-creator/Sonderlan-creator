@@ -15,7 +15,7 @@
 
 <p align="center">
   <!-- Badge de visitas -->
-  <img src="https://komarev.com/ghpvc/?username=Lander-ZZ&label=Visualiza%C3%A7%C3%B5es+no+perfil&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sonderlan-creator&label=Visualiza%C3%A7%C3%B5es+no+perfil&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -177,8 +177,8 @@ Atualmente me aprofundo nas áreas de:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lander-ZZ&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lander-ZZ&layout=compact&theme=radical&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sonderlan-creator&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonderlan-creator&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
