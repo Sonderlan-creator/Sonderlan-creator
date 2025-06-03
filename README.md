@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Landerson+Coelho+Arag%C3%A3o!;Always+evolving+developer...;Creator+of+games+and+interactive+experiences." alt="Typing SVG" />
 </p>
 
-<h1 align="center">👋 Hello, world! I'm <strong>Landerson Coelho Aragão</strong></h1>
+<h1 align="center">👋 Hello, world! I'm <strong>Lander</strong></h1>
 
 <p align="center">
 🎮 Developer in training | 💡 Creator of interactive experiences | 🔭 Explorer of new technologies
