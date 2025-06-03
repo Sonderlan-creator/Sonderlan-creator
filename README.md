@@ -10,13 +10,12 @@ Desenvolvedor em formação | Criador de jogos | Apaixonado por tecnologia, narr
 
 Sou estudante de **Gestão da Tecnologia da Informação** na FADBA, apaixonado por desenvolvimento de jogos, sites e aplicativos que tragam experiências memoráveis para quem usa. Estou sempre buscando novos desafios, seja em programação, design, inteligência artificial ou narrativas interativas.
 
-Tenho experiência com:
+Estou estudando:
 
 - 🕹 **Desenvolvimento de Jogos** (Game Maker Studio)
 - 🌐 **Desenvolvimento Web** (HTML, CSS, JavaScript)
 - 📱 **Criação de Aplicativos Mobile**
 - 📊 **Documentação e Análise de Sistemas**
-- 🎮 **Projetos com foco em eSports e RPG**
 - 🤖 **Robótica e Inteligência Artificial (em aprendizado)**
 
 Atualmente lidero um projeto de site institucional para a LA DOCERIA, unindo estética profissional com uma proposta acessível e acolhedora.
@@ -38,20 +37,15 @@ Atualmente lidero um projeto de site institucional para a LA DOCERIA, unindo est
 ### 🎯 Objetivos em 2025
 
 - Criar um jogo original baseado no folclore brasileiro (Tower Defense)
-- Publicar histórias infantis no YouTube com foco em narrativas do universo Sonic
 - Lançar meu primeiro aplicativo mobile
 - Participar de um projeto físico de robótica com IA embarcada
-- Publicar um livro autoral na Google Play Livros
 - Aprimorar minha fluência em back-end e bancos de dados
 
 ---
 
 ### 🌐 Vamos nos conectar?
 
-- 📫 **Email:** seu-email@gmail.com *(substituir pelo seu real)*
-- 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- 📷 **Instagram (projetos):** [@seu.insta.dev](https://instagram.com/seu.insta.dev)
-- 🕹 **itch.io:** [seuusuario.itch.io](https://seuusuario.itch.io) *(se tiver jogos publicados)*
+- 📫 **Email:** landersoncoelho72@gmail.com 
 
 ---
 
