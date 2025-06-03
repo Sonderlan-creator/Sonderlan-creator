@@ -84,13 +84,7 @@ Atualmente me aprofundo nas áreas de:
     <li>🔥 <strong>Commit Fervoroso</strong> – 30 dias consecutivos de commits</li>
   </ul>
 
-  <h2>🧩 Insígnias</h2>
-  <div class="badges">
-    <span class="badge">HTML5</span>
-    <span class="badge">JavaScript</span>
-    <span class="badge">GameDev</span>
-    <span class="badge">Leader</span>
-  </div>
+ 
 </div>
 
 ---
