@@ -71,53 +71,10 @@ Atualmente me aprofundo nas áreas de:
 ---
 
 ### 🧙 Status
-<div class="xp-container">
-  <div class="xp-label">🧠 Nível 5 - Dev Aprendiz</div>
-  <div class="xp-bar">
-    <div class="xp-fill" style="width: 65%;"></div>
-  </div>
-  <div class="xp-value">650 / 1000 XP</div>
-</div>
-
-<style>
-.xp-container {
-  width: 90%;
-  max-width: 400px;
-  margin: 20px auto;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  text-align: center;
-  color: #f0f0f0;
-}
-
-.xp-label {
-  font-weight: bold;
-  margin-bottom: 5px;
-  font-size: 1.1rem;
-}
-
-.xp-bar {
-  width: 100%;
-  height: 25px;
-  background-color: #222;
-  border-radius: 10px;
-  overflow: hidden;
-  box-shadow: 0 0 6px #00f3ff;
-  position: relative;
-}
-
-.xp-fill {
-  height: 100%;
-  background: linear-gradient(90deg, #00c3ff, #007adf);
-  transition: width 0.8s ease-in-out;
-}
-
-.xp-value {
-  margin-top: 6px;
-  font-size: 0.95rem;
-  color: #aaa;
-}
-</style>
-
+💻 Nível Dev: 17
+📚 XP: ██████████░░░░░░░░░ 50%
+🧠 Classe: Explorador de Conhecimento
+🎮 Habilidade Especial: Narrativa Interativa
 <div class="achievements">
   <h2>🎖️ Conquistas</h2>
   <ul>
@@ -135,41 +92,6 @@ Atualmente me aprofundo nas áreas de:
     <span class="badge">Leader</span>
   </div>
 </div>
-
-<style>
-.achievements {
-  max-width: 500px;
-  margin: auto;
-  padding: 20px;
-  font-family: 'Segoe UI', sans-serif;
-  color: #333;
-}
-
-.achievements ul {
-  padding-left: 20px;
-}
-
-.badges {
-  margin-top: 10px;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-
-.badge {
-  background-color: #444;
-  color: #fff;
-  padding: 6px 12px;
-  border-radius: 20px;
-  font-size: 0.85rem;
-  transition: transform 0.2s ease;
-}
-
-.badge:hover {
-  transform: scale(1.1);
-  background-color: #007adf;
-}
-</style>
 
 ---
 
