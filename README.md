@@ -48,8 +48,6 @@ Atualmente me aprofundo nas áreas de:
 - 📲 Lançar meu **primeiro aplicativo mobile** no Google Play
 - 🤖 Integrar um robô físico com **IA embarcada**
 - 💻 Aprofundar em **back-end** (Node.js, Express, APIs REST)
-- 📚 Publicar um livro autoral na **Google Play Livros**
-- 🧠 Criar um **RPG de mesa autoral** com sistema e ambientação próprios
 
 ---
 
