@@ -72,7 +72,7 @@ Atualmente me aprofundo nas áreas de:
 
 ### 🧙 Status
 <div class="xp-container">
-  <div class="xp-label">Nível 5 - Dev Aprendiz</div>
+  <div class="xp-label">🧠 Nível 5 - Dev Aprendiz</div>
   <div class="xp-bar">
     <div class="xp-fill" style="width: 65%;"></div>
   </div>
@@ -86,44 +86,37 @@ Atualmente me aprofundo nas áreas de:
   margin: 20px auto;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
+  color: #f0f0f0;
 }
 
 .xp-label {
   font-weight: bold;
   margin-bottom: 5px;
+  font-size: 1.1rem;
 }
 
 .xp-bar {
   width: 100%;
-  height: 20px;
-  background-color: #ddd;
+  height: 25px;
+  background-color: #222;
   border-radius: 10px;
   overflow: hidden;
-  box-shadow: 0 0 5px #0003;
+  box-shadow: 0 0 6px #00f3ff;
+  position: relative;
 }
 
 .xp-fill {
   height: 100%;
   background: linear-gradient(90deg, #00c3ff, #007adf);
-  animation: fillXP 2s ease-out;
+  transition: width 0.8s ease-in-out;
 }
 
 .xp-value {
-  margin-top: 5px;
-  font-size: 0.9rem;
-  color: #555;
-}
-
-@keyframes fillXP {
-  from {
-    width: 0%;
-  }
-  to {
-    width: 65%;
-  }
+  margin-top: 6px;
+  font-size: 0.95rem;
+  color: #aaa;
 }
 </style>
-
 
 <div class="achievements">
   <h2>🎖️ Conquistas</h2>
