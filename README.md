@@ -1,12 +1,12 @@
-<!-- Animação SVG no topo -->
+<!-- SVG Typing Animation on Top -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Landerson+Coelho+Arag%C3%A3o!;Dev+em+evolu%C3%A7%C3%A3o+constante...;Criador+de+jogos+e+experi%C3%AAncias+interativas." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Landerson+Coelho+Arag%C3%A3o!;Always+evolving+developer...;Creator+of+games+and+interactive+experiences." alt="Typing SVG" />
 </p>
 
-<h1 align="center">👋 Olá, mundo! Eu sou o <strong>Landerson Coelho Aragão</strong></h1>
+<h1 align="center">👋 Hello, world! I'm <strong>Landerson Coelho Aragão</strong></h1>
 
 <p align="center">
-🎮 Desenvolvedor em formação | 💡 Criador de experiências interativas | 🔭 Explorador de novas tecnologias
+🎮 Developer in training | 💡 Creator of interactive experiences | 🔭 Explorer of new technologies
 </p>
 
 <p align="center">
@@ -14,29 +14,29 @@
 </p>
 
 <p align="center">
-  <!-- Badge de visitas -->
-  <img src="https://komarev.com/ghpvc/?username=Sonderlan-creator&label=Visualiza%C3%A7%C3%B5es+no+perfil&color=0e75b6&style=flat" alt="Profile Views" />
+  <!-- Profile views badge -->
+  <img src="https://komarev.com/ghpvc/?username=Sonderlan-creator&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 💡 Sobre mim
+### 💡 About Me
 
-Sou estudante de **Gestão da Tecnologia da Informação** na FADBA e um apaixonado por criar experiências tecnológicas que **conectam pessoas**, **contam histórias** e **resolvem problemas**.  
+I'm an **Information Technology Management** student at FADBA and passionate about creating tech experiences that **connect people**, **tell stories**, and **solve problems**.  
 
-Atualmente me aprofundo nas áreas de:
+Currently diving into:
 
-- 🕹 **Desenvolvimento de Jogos** com foco em narrativa e mecânica (GameMaker Studio)
-- 🌐 **Desenvolvimento Web** com foco em design acessível e responsivo
-- 📱 **Criação de Aplicativos Mobile** com ideias criativas para o dia a dia
-- 🤖 **Robótica e Inteligência Artificial**, integrando o físico com o digital
-- 📑 **Análise de Sistemas e UX**, transformando ideias em soluções reais
+- 🕹 **Game Development** focused on narrative and mechanics (GameMaker Studio)
+- 🌐 **Web Development** with an emphasis on accessible and responsive design
+- 📱 **Mobile App Creation** with creative daily-life ideas
+- 🤖 **Robotics & Artificial Intelligence**, integrating physical and digital worlds
+- 📑 **Systems Analysis and UX**, turning ideas into real solutions
 
-💼 Atualmente sou líder de projeto no desenvolvimento do site institucional da **LA DOCERIA**, aplicando design estratégico e usabilidade.
+💼 Currently, I'm the project leader for the institutional website of **LA DOCERIA**, applying strategic design and usability.
 
 ---
 
-### 🚀 Tecnologias que estou explorando
+### 🚀 Technologies I'm Exploring
 
 <div align="center">
 
@@ -52,39 +52,38 @@ Atualmente me aprofundo nas áreas de:
 
 ---
 
-### 🎯 Metas para 2025
+### 🎯 Goals for 2025
 
-- 🚀 Criar um **Tower Defense** original com personagens do **folclore brasileiro**
-- 📲 Lançar meu **primeiro aplicativo mobile** no Google Play
-- 🤖 Integrar um robô físico com **IA embarcada**
-- 💻 Aprofundar em **back-end** (Node.js, Express, APIs REST)
+- 🚀 Create an original **Tower Defense** with **Brazilian folklore** characters
+- 📲 Launch my **first mobile app** on Google Play
+- 🤖 Integrate a physical robot with **embedded AI**
+- 💻 Go deeper into **back-end** (Node.js, Express, REST APIs)
 
 ---
 
-### 🔍 Algumas curiosidades sobre mim
+### 🔍 A Few Fun Facts About Me
 
-- 🎤 Tenho um canal no [Youtube](https://www.youtube.com/@Lander_ZZ) de jogos 
-- 🥋 Luto **Jiu-Jitsu** e sonho competir profissionalmente
-- 🧠 Sou fascinado por narrativas profundas, filosofia e **games como arte**
-- 🎓 Adoro aprender e ensinar — acredito que o **conhecimento só vale se for compartilhado**
+- 🎤 I have a [YouTube channel](https://www.youtube.com/@Lander_ZZ) about games 
+- 🥋 I practice **Jiu-Jitsu** and dream of competing professionally
+- 🧠 I'm fascinated by deep narratives, philosophy, and **games as art**
+- 🎓 I love learning and teaching — I believe **knowledge only matters when shared**
 
 ---
 
 ### 🧙 Status
-💻 Nível Dev: 17
-📚 XP: ██████████░░░░░░░░░ 50%
-🧠 Classe: Explorador de Conhecimento
-🎮 Habilidade Especial: Narrativa Interativa
-<div class="achievements">
-  <h2>🎖️ Conquistas</h2>
-  <ul>
-    <li>🧠 <strong>Aprendiz Curioso</strong> – Completou 100 horas de estudo prático</li>
-    <li>💻 <strong>Primeiro Deploy</strong> – Publicou seu primeiro site</li>
-    <li>🎮 <strong>Mini Dev Game Jam</strong> – Finalizou um jogo 100% funcional</li>
-    <li>🔥 <strong>Commit Fervoroso</strong> – 30 dias consecutivos de commits</li>
-  </ul>
+💻 Dev Level: 17  
+📚 XP: ██████████░░░░░░░░░ 50%  
+🧠 Class: Knowledge Explorer  
+🎮 Special Skill: Interactive Narrative
 
- 
+<div class="achievements">
+  <h2>🎖️ Achievements</h2>
+  <ul>
+    <li>🧠 <strong>Curious Learner</strong> – Completed 100 hours of hands-on study</li>
+    <li>💻 <strong>First Deploy</strong> – Published your first website</li>
+    <li>🎮 <strong>Mini Dev Game Jam</strong> – Finished a 100% functional game</li>
+    <li>🔥 <strong>Commit Streaker</strong> – 30 consecutive days of commits</li>
+  </ul>
 </div>
 
 ---
@@ -100,20 +99,19 @@ Atualmente me aprofundo nas áreas de:
 
 ---
 
-### 🌐 Vamos nos conectar?
+### 🌐 Let's Connect?
 
 - 📧 **Email:** [landersoncoelho72@gmail.com](mailto:landersoncoelho72@gmail.com)  
-- 🌎 **Portfólio (em breve)**  
-- 🎮 **Itch.io (em construção)**  
-- 🤝 *Aberto a colaborações, parcerias, ideias inovadoras e desafios malucos*
+- 🌎 **Portfolio (coming soon)**  
+- 🎮 **Itch.io (under construction)**  
+- 🤝 *Open to collaborations, partnerships, wild ideas and challenges!*
 
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Transformando+ideias+em+realidade...;Tecnologia+com+prop%C3%B3sito.;Jogos+que+conectam.;Desenvolvedor+em+evolu%C3%A7%C3%A3o.&center=true&width=440&height=45" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Turning+ideas+into+reality...;Technology+with+purpose.;Games+that+connect.;Ever-evolving+developer.&center=true&width=440&height=45" />
 </p>
 
 <p align="center">
-Feito com 💻, café ☕ e muita vontade de deixar o mundo mais divertido e inteligente.
+Made with 💻, coffee ☕, and a burning passion to make the world more fun and smart.
 </p>
-
