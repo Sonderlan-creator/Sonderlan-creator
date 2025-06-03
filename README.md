@@ -53,7 +53,7 @@ Atualmente me aprofundo nas áreas de:
 
 ### 🔍 Algumas curiosidades sobre mim
 
-- 🎤Tenho um canal no [YOUTUBE](https://www.youtube.com/@Lander_ZZ) de jogos 
+- 🎤Tenho um canal no [Youtube](https://www.youtube.com/@Lander_ZZ) de jogos 
 - 🥋 Luto **Jiu-Jitsu** e sonho competir profissionalmente
 - 🧠 Sou fascinado por narrativas profundas, filosofia e **games como arte**
 - 🎓 Adoro aprender e ensinar — acredito que o **conhecimento só vale se for compartilhado**
